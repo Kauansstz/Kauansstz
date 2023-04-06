@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Reinaldo Aparecido Ramos</h1>
 
-<!--
-**Kauansstz/Kauansstz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <p align="center">
+        <a href="mailto:gamersolitavi4l@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://www.linkedin.com/in/reinaldo-aparecido/"  target="_blank">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/dudu-cardoso/">
+        </a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReinaldoARamos&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoARamos&layout=compact&langs_count=7&theme=dark" /></a>
+</div>
+
+<br/>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,js,css,ts,react,nodejs&perline=10" />
+</p>
+
+
+<div align="center"> 
+    
+ # Hey👋I'm Reinaldo.
+<br/>
+- I'm studying  to become a front-end developer ⚛️
+<br/>
+- always learning and trying to be better  📖
+<br/>
+
+-My favorite part of the day is coding with a cup of coffee ☕
+<br/>
+
+
+
+
+
+</div>
