@@ -34,8 +34,6 @@
  
 ### Studying in this moment:
 
-
-
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 
 <div align="center">
