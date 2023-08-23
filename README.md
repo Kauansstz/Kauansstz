@@ -36,7 +36,7 @@
 
 
 
-![Java](https://img.shields.io/badge/-java-ffa500?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=ffa500)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
