@@ -12,7 +12,7 @@
 </p>
  
 <div align="center">  
-<a> href = "https://www.instagram.com/itsskauan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a> href=https://www.instagram.com/itsskauan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div> 
 
 <div align="center">  
@@ -22,7 +22,7 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQLoracle](https://img.shields.io/badge/-sqloracle-0D1117?style=for-the-badge&logo=sqloracle&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Oracle](https://pin.it/e4h8VX0)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
