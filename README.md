@@ -22,7 +22,7 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Oracle](https://i.pinimg.com/564x/13/59/fd/1359fdd23060111974f7b05813b29264.jpg)&nbsp;
+![Oracle](https://img.shields.io/badge/-oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
