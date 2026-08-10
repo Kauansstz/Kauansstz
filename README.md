@@ -1,5 +1,3 @@
-<div align="center">
-
 # `kauansstz@github:~$`
 
 ```text
@@ -16,8 +14,6 @@
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
 
 ```text
 kauansstz@github:~$ whoami
@@ -51,8 +47,9 @@ Role: Full-Stack Engineer
 kauansstz@github:~$ select _
 ```
 
-<details>
-<summary><b>▶ 1 - Quem é o Kauan?</b></summary>
+---
+
+## `[1]` Quem é o Kauan?
 
 ```text
 kauansstz@github:~$ ./about-kauan
@@ -78,10 +75,9 @@ performance e desenvolvimento de sistemas.
 [PROCESS FINISHED]
 ```
 
-</details>
+---
 
-<details>
-<summary><b>▶ 2 - Tecnologias</b></summary>
+## `[2]` Tecnologias
 
 ```text
 kauansstz@github:~$ tech --list
@@ -124,77 +120,124 @@ Docker             ████████████░░░░░░  Inter
 Kubernetes         ████████░░░░░░░░░░  Learning
 ```
 
-</details>
+---
 
-<details>
-<summary><b>▶ 3 - Repositórios</b></summary>
+## `[3]` Repositórios
+
+<!-- PROJECTS:START -->
 
 ```text
 kauansstz@github:~$ git repository --list
 
-[01]  Projeto 01
-[02]  Projeto 02
-[03]  Projeto 03
-[04]  Projeto 04
-[05]  Projeto 05
+Fetching repositories...
+
+[01] Kauansstz
+     ├── Language: Unknown
+     └── README: FOUND
+
+[02] Projex
+     ├── Language: Java
+     └── README: NOT FOUND
+
+[03] Gestor_Pix
+     ├── Language: Python
+     └── README: FOUND
+
+[04] Wikipedia
+     ├── Language: Python
+     └── README: FOUND
+
+[05] RustVault
+     ├── Language: Rust
+     └── README: FOUND
+
+[06] BootCamp2026
+     ├── Language: Shell
+     └── README: FOUND
+
+[07] Assistente_Virtual
+     ├── Language: Python
+     └── README: NOT FOUND
+
+[08] Gerenciamento-de-Pedidos-de-Loja-Online
+     ├── Language: Java
+     └── README: FOUND
+
+[09] gerenciador_tarefa
+     ├── Language: Java
+     └── README: FOUND
+
+[10] system_of_employees
+     ├── Language: Python
+     └── README: NOT FOUND
+
+[11] bot_mail
+     ├── Language: Python
+     └── README: NOT FOUND
+
+[12] bot_telegram
+     ├── Language: Python
+     └── README: NOT FOUND
+
+Repositories found: 12
 
 ────────────────────────────────────────────────────
 
-Selecione um projeto:
-
-[1] Saber mais sobre o Projeto 01
-[2] Saber mais sobre o Projeto 02
-[3] Saber mais sobre o Projeto 03
-[4] Saber mais sobre o Projeto 04
-[5] Saber mais sobre o Projeto 05
+Select a repository to learn more:
 ```
 
-### `> Projeto 01`
+### [01] Kauansstz
 
-<details>
-<summary>📁 Ver informações do projeto</summary>
+> `README não encontrado`
 
-```text
-kauansstz@github:~$ project 01
+### [02] Projex
 
-Repository: projeto-01
-Language: Rust
+> `README não encontrado`
 
-Description:
-[ADICIONE A DESCRIÇÃO DO PROJETO AQUI]
+### [03] Gestor_Pix
 
-README:
-```
+> `README não encontrado`
 
-> [📖 Ler README do projeto](./projeto-01)
+### [04] Wikipedia
 
-</details>
+> `README não encontrado`
 
-### `> Projeto 02`
+### [05] RustVault
 
-<details>
-<summary>📁 Ver informações do projeto</summary>
+> `README não encontrado`
 
-```text
-kauansstz@github:~$ project 02
+### [06] BootCamp2026
 
-Repository: projeto-02
-Language: Python
+> `README não encontrado`
 
-Description:
-[ADICIONE A DESCRIÇÃO DO PROJETO AQUI]
+### [07] Assistente_Virtual
 
-README:
-```
+> `README não encontrado`
 
-> [📖 Ler README do projeto](./projeto-02)
+### [08] Gerenciamento-de-Pedidos-de-Loja-Online
 
-</details>
+> `README não encontrado`
 
-</details>
+### [09] gerenciador_tarefa
 
-<details>
-<summary><b>▶ 4 - Projetos</b></summary>
+> `README não encontrado`
+
+### [10] system_of_employees
+
+> `README não encontrado`
+
+### [11] bot_mail
+
+> `README não encontrado`
+
+### [12] bot_telegram
+
+> `README não encontrado`
+<!-- PROJECTS:END -->
+
+---
+
+## `[4]` Projetos em destaque
 
 ```text
 kauansstz@github:~$ projects --featured
@@ -203,27 +246,18 @@ kauansstz@github:~$ projects --featured
 │ PROJECT                                                   │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│ 01  API / Backend                                        │
-│     Backend application and REST API                     │
+│ Os projetos abaixo são obtidos automaticamente           │
+│ através dos meus repositórios do GitHub.                  │
 │                                                          │
-│ 02  Automation                                            │
-│     Python automation and integrations                   │
-│                                                          │
-│ 03  Rust Testing                                         │
-│     API testing and performance analysis                 │
-│                                                          │
-│ 04  Web Application                                      │
-│     Full-stack application                               │
+│ Consulte a seção [3] Repositórios para visualizar        │
+│ os projetos disponíveis.                                 │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
-> Os projetos acima podem ser substituídos pelos seus repositórios reais.
+---
 
-</details>
-
-<details>
-<summary><b>▶ 5 - Contato</b></summary>
+## `[5]` Contato
 
 ```text
 kauansstz@github:~$ contact --list
@@ -239,11 +273,7 @@ kauansstz@github:~$ echo "Let's build something."
 Let's build something.
 ```
 
-</details>
-
 ---
-
-<div align="center">
 
 ```text
 ────────────────────────────────────────────────────────
@@ -256,5 +286,9 @@ Thanks for visiting my profile.
 
 ────────────────────────────────────────────────────────
 ```
+
+<div align="center">
+
+`© 2026 Kauan dos Santos de Souza`
 
 </div>
