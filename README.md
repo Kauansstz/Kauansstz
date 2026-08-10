@@ -1,30 +1,33 @@
 # `kauansstz@github:~$`
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗                 ║
-║   ██║ ██╔╝██╔══██╗██║   ██║██╔══██╗████╗  ██║                 ║
-║   █████╔╝ ███████║██║   ██║███████║██╔██╗ ██║                 ║
-║   ██╔═██╗ ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║                 ║
-║   ██║  ██╗██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║                 ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝                 ║
-║                                                                  ║
-║              FULL-STACK ENGINEER • DEVELOPER                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗                   ║
+║   ██║ ██╔╝██╔══██╗██║   ██║██╔══██╗████╗  ██║                   ║
+║   █████╔╝ ███████║██║   ██║███████║██╔██╗ ██║                   ║
+║   ██╔═██╗ ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║                   ║
+║   ██║  ██╗██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║                   ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝                   ║
+║                                                                    ║
+║                 FULL-STACK ENGINEER • DEVELOPER                   ║
+║                                                                    ║
+║                  SYSTEM STATUS: ONLINE                            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 ```text
-kauansstz@github:~$ whoami
+kauansstz@github:~$ system --info
 
-Kauan dos Santos de Souza
-Age: 22
-Developer since: 18
-Role: Full-Stack Engineer
+USER.................: Kauan dos Santos de Souza
+AGE..................: 22
+DEVELOPER SINCE......: 18
+ROLE.................: Full-Stack Engineer
+FOCUS................: Backend • APIs • Systems • Automation
+STATUS...............: Building & Learning
 
-> Building software, learning new technologies
-> and turning problems into solutions.
+> "Turning problems into software."
 ```
 
 ---
@@ -32,27 +35,32 @@ Role: Full-Stack Engineer
 ## `kauansstz@github:~$ menu`
 
 ```text
-┌──────────────────────────────────────────────┐
-│                 MAIN MENU                    │
-├──────────────────────────────────────────────┤
-│                                              │
-│  [1]  Quem é o Kauan?                        │
-│  [2]  Tecnologias                            │
-│  [3]  Repositórios                           │
-│  [4]  Projetos                               │
-│  [5]  Contato                                │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                         MAIN MENU                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [01]  about       → Sobre mim                               │
+│  [02]  skills      → Tecnologias                             │
+│  [03]  projects    → Projetos                                │
+│  [04]  repositories→ Repositórios                            │
+│  [05]  terminal    → Terminal interativo                     │
+│  [06]  contact     → Contato                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-kauansstz@github:~$ select _
+kauansstz@github:~$ _
 ```
 
 ---
 
-## `[1]` Quem é o Kauan?
+# `[01]` About
 
 ```text
-kauansstz@github:~$ ./about-kauan
+kauansstz@github:~$ about
+
+┌──────────────────────────────────────────────────────────────┐
+│                       ABOUT KAUAN                            │
+└──────────────────────────────────────────────────────────────┘
 
 Nome...............: Kauan dos Santos de Souza
 Idade..............: 22 anos
@@ -60,29 +68,38 @@ Programando desde.: 18 anos
 Área...............: Desenvolvimento de Software
 Perfil............: Full-Stack Engineer
 
-────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────
 
-Gosto de transformar problemas em software.
+Desenvolvedor focado em construir software, APIs,
+sistemas web, integrações, automações e soluções
+para problemas reais.
 
-Minha experiência envolve desenvolvimento de APIs,
-sistemas web, integrações entre serviços, automações,
-bancos de dados e testes.
+Tenho interesse principalmente em backend,
+arquitetura de sistemas, desenvolvimento de APIs,
+bancos de dados, testes, performance e infraestrutura.
 
-Atualmente meu foco está em evoluir como desenvolvedor,
-aprofundando conhecimentos em backend, arquitetura,
-performance e desenvolvimento de sistemas.
+Meu objetivo é continuar evoluindo tecnicamente,
+explorando novas tecnologias e construindo projetos
+que demonstrem minha capacidade de resolver problemas
+através de software.
 
 [PROCESS FINISHED]
 ```
 
 ---
 
-## `[2]` Tecnologias
+# `[02]` Skills
 
 ```text
-kauansstz@github:~$ tech --list
+kauansstz@github:~$ skills --list
+
+╔══════════════════════════════════════════════════════════════╗
+║                        TECHNOLOGY STACK                     ║
+╚══════════════════════════════════════════════════════════════╝
+
 
 LANGUAGES
+
 ├── Rust
 ├── Python
 ├── Java
@@ -90,25 +107,40 @@ LANGUAGES
 ├── HTML
 └── CSS
 
+
 BACKEND
+
 ├── Django
 ├── Django REST Framework
 ├── Flask
 └── Spring Boot
 
+
 DATABASES
+
 ├── SQL Server
 ├── Oracle
 └── MySQL
 
+
 DEVOPS / INFRASTRUCTURE
+
 ├── Docker
 ├── Docker Compose
 └── Kubernetes
 
-────────────────────────────────────────────────────
 
-kauansstz@github:~$ tech --status
+TOOLS / WORKFLOW
+
+├── Git
+├── GitHub
+├── REST APIs
+├── Automated Testing
+└── CI/CD
+```
+
+```text
+kauansstz@github:~$ skills --status
 
 Rust              ███████████████░░░  Learning / Advanced
 Python             ████████████████░░  Strong
@@ -122,7 +154,44 @@ Kubernetes         ████████░░░░░░░░░░  Learn
 
 ---
 
-## `[3]` Repositórios
+# `[03]` Projects
+
+```text
+kauansstz@github:~$ projects --featured
+
+Searching featured projects...
+
+┌──────────────────────────────────────────────────────────────┐
+│                     PROJECT EXPLORER                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│ 01  RustVault                                                │
+│     Rust                                                     │
+│                                                              │
+│ 02  Gestor_Pix                                               │
+│     Python                                                   │
+│                                                              │
+│ 03  Gerenciamento-de-Pedidos-de-Loja-Online                 │
+│     Java                                                     │
+│                                                              │
+│ 04  Wikipedia                                                │
+│     Python                                                   │
+│                                                              │
+│ 05  Assistente_Virtual                                       │
+│     Python                                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+Use the interactive terminal to explore repositories.
+
+kauansstz@github:~$ _
+```
+
+---
+
+# `[04]` Repositories
+
+> Esta seção deve ser **atualizada automaticamente pelo GitHub Actions**.
 
 <!-- PROJECTS:START -->
 
@@ -133,150 +202,204 @@ Fetching repositories...
 
 [01] Kauansstz
      ├── Language: Unknown
-     └── README: FOUND
+     ├── README: FOUND
+     └── Type: Profile
 
 [02] Projex
      ├── Language: Java
-     └── README: NOT FOUND
+     ├── README: NOT FOUND
+     └── Type: Repository
 
 [03] Gestor_Pix
      ├── Language: Python
-     └── README: FOUND
+     ├── README: FOUND
+     └── Type: Repository
 
 [04] Wikipedia
      ├── Language: Python
-     └── README: FOUND
+     ├── README: FOUND
+     └── Type: Repository
 
 [05] RustVault
      ├── Language: Rust
-     └── README: FOUND
+     ├── README: FOUND
+     └── Type: Repository
 
 [06] BootCamp2026
      ├── Language: Shell
-     └── README: FOUND
+     ├── README: FOUND
+     └── Type: Repository
 
 [07] Assistente_Virtual
      ├── Language: Python
-     └── README: NOT FOUND
+     ├── README: NOT FOUND
+     └── Type: Repository
 
 [08] Gerenciamento-de-Pedidos-de-Loja-Online
      ├── Language: Java
-     └── README: FOUND
+     ├── README: FOUND
+     └── Type: Repository
 
 [09] gerenciador_tarefa
      ├── Language: Java
-     └── README: FOUND
+     ├── README: FOUND
+     └── Type: Repository
 
 [10] system_of_employees
      ├── Language: Python
-     └── README: NOT FOUND
+     ├── README: NOT FOUND
+     └── Type: Repository
 
 [11] bot_mail
      ├── Language: Python
-     └── README: NOT FOUND
+     ├── README: NOT FOUND
+     └── Type: Repository
 
 [12] bot_telegram
      ├── Language: Python
-     └── README: NOT FOUND
+     ├── README: NOT FOUND
+     └── Type: Repository
+
+──────────────────────────────────────────────────────────────
 
 Repositories found: 12
 
-────────────────────────────────────────────────────
+README files found: 7
+README files missing: 5
 
-Select a repository to learn more:
+──────────────────────────────────────────────────────────────
+
+Use the Interactive Terminal to inspect repositories.
 ```
 
-### [01] Kauansstz
-
-> `README não encontrado`
-
-### [02] Projex
-
-> `README não encontrado`
-
-### [03] Gestor_Pix
-
-> `README não encontrado`
-
-### [04] Wikipedia
-
-> `README não encontrado`
-
-### [05] RustVault
-
-> `README não encontrado`
-
-### [06] BootCamp2026
-
-> `README não encontrado`
-
-### [07] Assistente_Virtual
-
-> `README não encontrado`
-
-### [08] Gerenciamento-de-Pedidos-de-Loja-Online
-
-> `README não encontrado`
-
-### [09] gerenciador_tarefa
-
-> `README não encontrado`
-
-### [10] system_of_employees
-
-> `README não encontrado`
-
-### [11] bot_mail
-
-> `README não encontrado`
-
-### [12] bot_telegram
-
-> `README não encontrado`
 <!-- PROJECTS:END -->
 
 ---
 
-## `[4]` Projetos em destaque
+# `[05]` Interactive Terminal
 
 ```text
-kauansstz@github:~$ projects --featured
+kauansstz@github:~$ terminal --launch
 
-┌──────────────────────────────────────────────────────────┐
-│ PROJECT                                                   │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│ Os projetos abaixo são obtidos automaticamente           │
-│ através dos meus repositórios do GitHub.                  │
-│                                                          │
-│ Consulte a seção [3] Repositórios para visualizar        │
-│ os projetos disponíveis.                                 │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                  INTERACTIVE TERMINAL                        │
+│                                                              │
+│   Explore my profile using actual terminal commands.         │
+│                                                              │
+│   Available commands:                                        │
+│                                                              │
+│   $ help                                                     │
+│   $ about                                                    │
+│   $ whoami                                                   │
+│   $ skills                                                   │
+│   $ projects                                                 │
+│   $ repositories                                             │
+│   $ repo <id>                                                │
+│   $ contact                                                  │
+│   $ github                                                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### 🖥️ [Open Interactive Terminal](https://kauansstz.github.io)
+
+```text
+kauansstz@github:~$ ./terminal
+
+Starting interactive shell...
+
+[████████████████████████████████████] 100%
+
+Terminal ready.
+
+> Type "help" to begin.
 ```
 
 ---
 
-## `[5]` Contato
+# `[06]` Contact
 
 ```text
-kauansstz@github:~$ contact --list
+kauansstz@github:~$ contact
 
-GitHub      : github.com/kauansstz
-LinkedIn    : [adicione seu LinkedIn]
-Email       : [adicione seu email]
+┌──────────────────────────────────────────────────────────────┐
+│                         CONTACT                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│ GitHub   : github.com/kauansstz                              │
+│ LinkedIn : [adicione seu LinkedIn]                           │
+│ Email    : [adicione seu email]                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-────────────────────────────────────────────────────
+```text
+kauansstz@github:~$ github --open
+
+Opening GitHub profile...
+
+[OK]
+```
+
+---
+
+## `kauansstz@github:~$ system --architecture`
+
+```text
+                         GITHUB PROFILE
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      README.md      │
+                    │                     │
+                    │  About              │
+                    │  Skills             │
+                    │  Projects           │
+                    │  Repositories       │
+                    └──────────┬──────────┘
+                               │
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Interactive Terminal│
+                    │                     │
+                    │ HTML                │
+                    │ CSS                 │
+                    │ JavaScript          │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     GitHub API      │
+                    │                     │
+                    │ Repositories        │
+                    │ Languages           │
+                    │ README              │
+                    │ Projects            │
+                    └─────────────────────┘
+```
+
+---
+
+```text
+kauansstz@github:~$ status
+
+System..............: ONLINE
+Repositories........: 12
+Primary Languages...: Python • Java • Rust
+Backend.............: Django • Spring Boot • Flask
+Infrastructure......: Docker • Kubernetes
+Automation..........: GitHub Actions
+Terminal............: ONLINE
+
+──────────────────────────────────────────────────────────────
 
 kauansstz@github:~$ echo "Let's build something."
 
 Let's build something.
-```
 
----
-
-```text
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────
 
 kauansstz@github:~$ exit
 
@@ -284,7 +407,7 @@ Connection closed.
 
 Thanks for visiting my profile.
 
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────
 ```
 
 <div align="center">
