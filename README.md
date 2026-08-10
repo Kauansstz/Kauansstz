@@ -201,77 +201,115 @@ kauansstz@github:~$ git repository --list
 Fetching repositories...
 
 [01] Kauansstz
-     ├── Language: Unknown
-     ├── README: FOUND
-     └── Type: Profile
+     ├── Language: Python
+     └── README: FOUND
 
-[02] Projex
+[02] kauansstz.github.io
+     ├── Language: HTML
+     └── README: FOUND
+
+[03] Projex
      ├── Language: Java
-     ├── README: NOT FOUND
-     └── Type: Repository
+     └── README: NOT FOUND
 
-[03] Gestor_Pix
+[04] Gestor_Pix
      ├── Language: Python
-     ├── README: FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[04] Wikipedia
+[05] Wikipedia
      ├── Language: Python
-     ├── README: FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[05] RustVault
+[06] RustVault
      ├── Language: Rust
-     ├── README: FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[06] BootCamp2026
+[07] BootCamp2026
      ├── Language: Shell
-     ├── README: FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[07] Assistente_Virtual
+[08] Assistente_Virtual
      ├── Language: Python
-     ├── README: NOT FOUND
-     └── Type: Repository
+     └── README: NOT FOUND
 
-[08] Gerenciamento-de-Pedidos-de-Loja-Online
+[09] Gerenciamento-de-Pedidos-de-Loja-Online
      ├── Language: Java
-     ├── README: FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[09] gerenciador_tarefa
+[10] gerenciador_tarefa
      ├── Language: Java
-     ├── README: FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[10] system_of_employees
+[11] system_of_employees
      ├── Language: Python
-     ├── README: NOT FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[11] bot_mail
+[12] bot_mail
      ├── Language: Python
-     ├── README: NOT FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-[12] bot_telegram
+[13] bot_telegram
      ├── Language: Python
-     ├── README: NOT FOUND
-     └── Type: Repository
+     └── README: FOUND
 
-──────────────────────────────────────────────────────────────
+Repositories found: 13
 
-Repositories found: 12
+────────────────────────────────────────────────────
 
-README files found: 7
-README files missing: 5
-
-──────────────────────────────────────────────────────────────
-
-Use the Interactive Terminal to inspect repositories.
+Select a repository to learn more:
 ```
 
+### [01] Kauansstz
+
+[📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
+
+### [02] kauansstz.github.io
+
+[📖 Ler README](https://github.com/Kauansstz/kauansstz.github.io#readme)
+
+### [03] Projex
+
+> `README não encontrado`
+
+### [04] Gestor_Pix
+
+[📖 Ler README](https://github.com/Kauansstz/Gestor_Pix#readme)
+
+### [05] Wikipedia
+
+[📖 Ler README](https://github.com/Kauansstz/Wikipedia#readme)
+
+### [06] RustVault
+
+[📖 Ler README](https://github.com/Kauansstz/RustVault#readme)
+
+### [07] BootCamp2026
+
+[📖 Ler README](https://github.com/Kauansstz/BootCamp2026#readme)
+
+### [08] Assistente_Virtual
+
+> `README não encontrado`
+
+### [09] Gerenciamento-de-Pedidos-de-Loja-Online
+
+[📖 Ler README](https://github.com/Kauansstz/Gerenciamento-de-Pedidos-de-Loja-Online#readme)
+
+### [10] gerenciador_tarefa
+
+[📖 Ler README](https://github.com/Kauansstz/gerenciador_tarefa#readme)
+
+### [11] system_of_employees
+
+[📖 Ler README](https://github.com/Kauansstz/system_of_employees#readme)
+
+### [12] bot_mail
+
+[📖 Ler README](https://github.com/Kauansstz/bot_mail#readme)
+
+### [13] bot_telegram
+
+[📖 Ler README](https://github.com/Kauansstz/bot_telegram#readme)
 <!-- PROJECTS:END -->
 
 ---
