@@ -200,17 +200,17 @@ kauansstz@github:~$ git repository --list
 
 Fetching repositories...
 
-[01] Kauansstz
-     ├── Language: Python
-     └── README: FOUND
+[01] Projex
+     ├── Language: Java
+     └── README: NOT FOUND
 
 [02] kauansstz.github.io
      ├── Language: HTML
      └── README: FOUND
 
-[03] Projex
-     ├── Language: Java
-     └── README: NOT FOUND
+[03] Kauansstz
+     ├── Language: Python
+     └── README: FOUND
 
 [04] Gestor_Pix
      ├── Language: Python
@@ -259,17 +259,17 @@ Repositories found: 13
 Select a repository to learn more:
 ```
 
-### [01] Kauansstz
+### [01] Projex
 
-[📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
+> `README não encontrado`
 
 ### [02] kauansstz.github.io
 
 [📖 Ler README](https://github.com/Kauansstz/kauansstz.github.io#readme)
 
-### [03] Projex
+### [03] Kauansstz
 
-> `README não encontrado`
+[📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
 
 ### [04] Gestor_Pix
 
