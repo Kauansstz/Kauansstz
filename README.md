@@ -204,12 +204,12 @@ Fetching repositories...
      ├── Language: Java
      └── README: NOT FOUND
 
-[02] kauansstz.github.io
-     ├── Language: HTML
+[02] Kauansstz
+     ├── Language: Python
      └── README: FOUND
 
-[03] Kauansstz
-     ├── Language: Python
+[03] kauansstz.github.io
+     ├── Language: HTML
      └── README: FOUND
 
 [04] Gestor_Pix
@@ -263,13 +263,13 @@ Select a repository to learn more:
 
 > `README não encontrado`
 
-### [02] kauansstz.github.io
-
-[📖 Ler README](https://github.com/Kauansstz/kauansstz.github.io#readme)
-
-### [03] Kauansstz
+### [02] Kauansstz
 
 [📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
+
+### [03] kauansstz.github.io
+
+[📖 Ler README](https://github.com/Kauansstz/kauansstz.github.io#readme)
 
 ### [04] Gestor_Pix
 
