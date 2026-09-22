@@ -200,12 +200,12 @@ kauansstz@github:~$ git repository --list
 
 Fetching repositories...
 
-[01] Kauansstz
-     ├── Language: Python
+[01] kauansstz.github.io
+     ├── Language: HTML
      └── README: FOUND
 
-[02] kauansstz.github.io
-     ├── Language: HTML
+[02] Kauansstz
+     ├── Language: Python
      └── README: FOUND
 
 [03] Gestor_Pix
@@ -255,13 +255,13 @@ Repositories found: 12
 Select a repository to learn more:
 ```
 
-### [01] Kauansstz
-
-[📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
-
-### [02] kauansstz.github.io
+### [01] kauansstz.github.io
 
 [📖 Ler README](https://github.com/Kauansstz/kauansstz.github.io#readme)
+
+### [02] Kauansstz
+
+[📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
 
 ### [03] Gestor_Pix
 
