@@ -297,11 +297,11 @@ Select a repository to learn more:
 
 ### [11] bot_mail
 
-[📖 Ler README](https://github.com/Kauansstz/bot_mail#readme)
+> `README não encontrado`
 
 ### [12] bot_telegram
 
-[📖 Ler README](https://github.com/Kauansstz/bot_telegram#readme)
+> `README não encontrado`
 <!-- PROJECTS:END -->
 
 ---
