@@ -200,106 +200,114 @@ kauansstz@github:~$ git repository --list
 
 Fetching repositories...
 
-[01] Kauansstz
+[01] Keystone
+     ├── Language: Java
+     └── README: FOUND
+
+[02] Kauansstz
      ├── Language: Python
      └── README: FOUND
 
-[02] kauansstz.github.io
+[03] kauansstz.github.io
      ├── Language: HTML
      └── README: FOUND
 
-[03] Gestor_Pix
+[04] Gestor_Pix
      ├── Language: Python
      └── README: FOUND
 
-[04] Wikipedia
+[05] Wikipedia
      ├── Language: Python
      └── README: FOUND
 
-[05] RustVault
+[06] RustVault
      ├── Language: Rust
      └── README: FOUND
 
-[06] BootCamp2026
+[07] BootCamp2026
      ├── Language: Shell
      └── README: FOUND
 
-[07] Assistente_Virtual
+[08] Assistente_Virtual
      ├── Language: Python
      └── README: NOT FOUND
 
-[08] Gerenciamento-de-Pedidos-de-Loja-Online
+[09] Gerenciamento-de-Pedidos-de-Loja-Online
      ├── Language: Java
      └── README: FOUND
 
-[09] gerenciador_tarefa
+[10] gerenciador_tarefa
      ├── Language: Java
      └── README: FOUND
 
-[10] system_of_employees
+[11] system_of_employees
      ├── Language: Python
      └── README: FOUND
 
-[11] bot_mail
+[12] bot_mail
      ├── Language: Python
      └── README: FOUND
 
-[12] bot_telegram
+[13] bot_telegram
      ├── Language: Python
      └── README: FOUND
 
-Repositories found: 12
+Repositories found: 13
 
 ────────────────────────────────────────────────────
 
 Select a repository to learn more:
 ```
 
-### [01] Kauansstz
+### [01] Keystone
+
+[📖 Ler README](https://github.com/Kauansstz/Keystone#readme)
+
+### [02] Kauansstz
 
 [📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
 
-### [02] kauansstz.github.io
+### [03] kauansstz.github.io
 
 [📖 Ler README](https://github.com/Kauansstz/kauansstz.github.io#readme)
 
-### [03] Gestor_Pix
+### [04] Gestor_Pix
 
 [📖 Ler README](https://github.com/Kauansstz/Gestor_Pix#readme)
 
-### [04] Wikipedia
+### [05] Wikipedia
 
 [📖 Ler README](https://github.com/Kauansstz/Wikipedia#readme)
 
-### [05] RustVault
+### [06] RustVault
 
 [📖 Ler README](https://github.com/Kauansstz/RustVault#readme)
 
-### [06] BootCamp2026
+### [07] BootCamp2026
 
 [📖 Ler README](https://github.com/Kauansstz/BootCamp2026#readme)
 
-### [07] Assistente_Virtual
+### [08] Assistente_Virtual
 
 > `README não encontrado`
 
-### [08] Gerenciamento-de-Pedidos-de-Loja-Online
+### [09] Gerenciamento-de-Pedidos-de-Loja-Online
 
 [📖 Ler README](https://github.com/Kauansstz/Gerenciamento-de-Pedidos-de-Loja-Online#readme)
 
-### [09] gerenciador_tarefa
+### [10] gerenciador_tarefa
 
 [📖 Ler README](https://github.com/Kauansstz/gerenciador_tarefa#readme)
 
-### [10] system_of_employees
+### [11] system_of_employees
 
 [📖 Ler README](https://github.com/Kauansstz/system_of_employees#readme)
 
-### [11] bot_mail
+### [12] bot_mail
 
 [📖 Ler README](https://github.com/Kauansstz/bot_mail#readme)
 
-### [12] bot_telegram
+### [13] bot_telegram
 
 [📖 Ler README](https://github.com/Kauansstz/bot_telegram#readme)
 <!-- PROJECTS:END -->
