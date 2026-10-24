@@ -200,12 +200,12 @@ kauansstz@github:~$ git repository --list
 
 Fetching repositories...
 
-[01] Keystone
-     ├── Language: Java
+[01] Kauansstz
+     ├── Language: Python
      └── README: FOUND
 
-[02] Kauansstz
-     ├── Language: Python
+[02] Keystone
+     ├── Language: Java
      └── README: FOUND
 
 [03] kauansstz.github.io
@@ -259,13 +259,13 @@ Repositories found: 13
 Select a repository to learn more:
 ```
 
-### [01] Keystone
-
-[📖 Ler README](https://github.com/Kauansstz/Keystone#readme)
-
-### [02] Kauansstz
+### [01] Kauansstz
 
 [📖 Ler README](https://github.com/Kauansstz/Kauansstz#readme)
+
+### [02] Keystone
+
+[📖 Ler README](https://github.com/Kauansstz/Keystone#readme)
 
 ### [03] kauansstz.github.io
 
